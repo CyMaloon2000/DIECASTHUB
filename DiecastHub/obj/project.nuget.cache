@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GBFA+0R8Fas=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KANASHI\\Desktop\\DH\\DIECASTHUB\\DiecastHub\\DiecastHub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KANASHI\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\KANASHI\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\KANASHI\\.nuget\\packages\\scalar.aspnetcore\\2.13.19\\scalar.aspnetcore.2.13.19.nupkg.sha512"
+  ],
+  "logs": []
+}
