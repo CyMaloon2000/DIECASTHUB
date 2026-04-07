@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\KANASHI\\Desktop\\DH\\DIECASTHUB\\DiecastHub\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D8E3ADD4-17AA-AAC4-9530-DF469F25EFF2}|DiecastHub.csproj|c:\\users\\kanashi\\desktop\\dh\\diecasthub\\diecasthub\\services\\personservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E3ADD4-17AA-AAC4-9530-DF469F25EFF2}|DiecastHub.csproj|solutionrelative:services\\personservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D8E3ADD4-17AA-AAC4-9530-DF469F25EFF2}|DiecastHub.csproj|c:\\users\\kanashi\\desktop\\dh\\diecasthub\\diecasthub\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8E3ADD4-17AA-AAC4-9530-DF469F25EFF2}|DiecastHub.csproj|solutionrelative:controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8E3ADD4-17AA-AAC4-9530-DF469F25EFF2}|DiecastHub.csproj|c:\\users\\kanashi\\desktop\\dh\\diecasthub\\diecasthub\\services\\personservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8E3ADD4-17AA-AAC4-9530-DF469F25EFF2}|DiecastHub.csproj|solutionrelative:services\\personservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8E3ADD4-17AA-AAC4-9530-DF469F25EFF2}|DiecastHub.csproj|c:\\users\\kanashi\\desktop\\dh\\diecasthub\\diecasthub\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E3ADD4-17AA-AAC4-9530-DF469F25EFF2}|DiecastHub.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E3ADD4-17AA-AAC4-9530-DF469F25EFF2}|DiecastHub.csproj|c:\\users\\kanashi\\desktop\\dh\\diecasthub\\diecasthub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E3ADD4-17AA-AAC4-9530-DF469F25EFF2}|DiecastHub.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E3ADD4-17AA-AAC4-9530-DF469F25EFF2}|DiecastHub.csproj|c:\\users\\kanashi\\desktop\\dh\\diecasthub\\diecasthub\\services\\genericservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E3ADD4-17AA-AAC4-9530-DF469F25EFF2}|DiecastHub.csproj|solutionrelative:services\\genericservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8E3ADD4-17AA-AAC4-9530-DF469F25EFF2}|DiecastHub.csproj|c:\\users\\kanashi\\desktop\\dh\\diecasthub\\diecasthub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8E3ADD4-17AA-AAC4-9530-DF469F25EFF2}|DiecastHub.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D8E3ADD4-17AA-AAC4-9530-DF469F25EFF2}|DiecastHub.csproj|c:\\users\\kanashi\\desktop\\dh\\diecasthub\\diecasthub\\services\\iservices\\ipersonservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D8E3ADD4-17AA-AAC4-9530-DF469F25EFF2}|DiecastHub.csproj|solutionrelative:services\\iservices\\ipersonservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8E3ADD4-17AA-AAC4-9530-DF469F25EFF2}|DiecastHub.csproj|c:\\users\\kanashi\\desktop\\dh\\diecasthub\\diecasthub\\diecasthub.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{D8E3ADD4-17AA-AAC4-9530-DF469F25EFF2}|DiecastHub.csproj|solutionrelative:diecasthub.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{D8E3ADD4-17AA-AAC4-9530-DF469F25EFF2}|DiecastHub.csproj|c:\\users\\kanashi\\desktop\\dh\\diecasthub\\diecasthub\\services\\iservices\\igenericservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8E3ADD4-17AA-AAC4-9530-DF469F25EFF2}|DiecastHub.csproj|solutionrelative:services\\iservices\\igenericservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D8E3ADD4-17AA-AAC4-9530-DF469F25EFF2}|DiecastHub.csproj|c:\\users\\kanashi\\desktop\\dh\\diecasthub\\diecasthub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D8E3ADD4-17AA-AAC4-9530-DF469F25EFF2}|DiecastHub.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D8E3ADD4-17AA-AAC4-9530-DF469F25EFF2}|DiecastHub.csproj|c:\\users\\kanashi\\desktop\\dh\\diecasthub\\diecasthub\\diecasthub.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{D8E3ADD4-17AA-AAC4-9530-DF469F25EFF2}|DiecastHub.csproj|solutionrelative:diecasthub.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,58 +54,109 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\KANASHI\\Desktop\\DH\\DIECASTHUB\\DiecastHub\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\KANASHI\\Desktop\\DH\\DIECASTHUB\\DiecastHub\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-07T15:37:14.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\KANASHI\\Desktop\\DH\\DIECASTHUB\\DiecastHub\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\KANASHI\\Desktop\\DH\\DIECASTHUB\\DiecastHub\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-03T20:06:30.448Z"
+              "WhenOpened": "2026-04-07T15:35:46.361Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
+              "Title": "GenericServices.cs",
+              "DocumentMoniker": "C:\\Users\\KANASHI\\Desktop\\DH\\DIECASTHUB\\DiecastHub\\Services\\GenericServices.cs",
+              "RelativeDocumentMoniker": "Services\\GenericServices.cs",
+              "ToolTip": "C:\\Users\\KANASHI\\Desktop\\DH\\DIECASTHUB\\DiecastHub\\Services\\GenericServices.cs",
+              "RelativeToolTip": "Services\\GenericServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T19:09:37.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "PersonServices.cs",
               "DocumentMoniker": "C:\\Users\\KANASHI\\Desktop\\DH\\DIECASTHUB\\DiecastHub\\Services\\PersonServices.cs",
               "RelativeDocumentMoniker": "Services\\PersonServices.cs",
               "ToolTip": "C:\\Users\\KANASHI\\Desktop\\DH\\DIECASTHUB\\DiecastHub\\Services\\PersonServices.cs",
               "RelativeToolTip": "Services\\PersonServices.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAABZAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAjwB0AAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-03T20:05:26.446Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IPersonServices.cs",
-              "DocumentMoniker": "C:\\Users\\KANASHI\\Desktop\\DH\\DIECASTHUB\\DiecastHub\\Services\\IServices\\IPersonServices.cs",
-              "RelativeDocumentMoniker": "Services\\IServices\\IPersonServices.cs",
-              "ToolTip": "C:\\Users\\KANASHI\\Desktop\\DH\\DIECASTHUB\\DiecastHub\\Services\\IServices\\IPersonServices.cs",
-              "RelativeToolTip": "Services\\IServices\\IPersonServices.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-03T20:05:10.803Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PersonController.cs",
               "DocumentMoniker": "C:\\Users\\KANASHI\\Desktop\\DH\\DIECASTHUB\\DiecastHub\\Controllers\\PersonController.cs",
               "RelativeDocumentMoniker": "Controllers\\PersonController.cs",
               "ToolTip": "C:\\Users\\KANASHI\\Desktop\\DH\\DIECASTHUB\\DiecastHub\\Controllers\\PersonController.cs",
               "RelativeToolTip": "Controllers\\PersonController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-03T19:53:24.504Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\KANASHI\\Desktop\\DH\\DIECASTHUB\\DiecastHub\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\KANASHI\\Desktop\\DH\\DIECASTHUB\\DiecastHub\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T19:04:09.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenericServices.cs",
+              "DocumentMoniker": "C:\\Users\\KANASHI\\Desktop\\DH\\DIECASTHUB\\DiecastHub\\Services\\IServices\\IGenericServices.cs",
+              "RelativeDocumentMoniker": "Services\\IServices\\IGenericServices.cs",
+              "ToolTip": "C:\\Users\\KANASHI\\Desktop\\DH\\DIECASTHUB\\DiecastHub\\Services\\IServices\\IGenericServices.cs",
+              "RelativeToolTip": "Services\\IServices\\IGenericServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T19:08:04.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IPersonServices.cs",
+              "DocumentMoniker": "C:\\Users\\KANASHI\\Desktop\\DH\\DIECASTHUB\\DiecastHub\\Services\\IServices\\IPersonServices.cs",
+              "RelativeDocumentMoniker": "Services\\IServices\\IPersonServices.cs",
+              "ToolTip": "C:\\Users\\KANASHI\\Desktop\\DH\\DIECASTHUB\\DiecastHub\\Services\\IServices\\IPersonServices.cs",
+              "RelativeToolTip": "Services\\IServices\\IPersonServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-03T20:05:10.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "DiecastHub.http",
               "DocumentMoniker": "C:\\Users\\KANASHI\\Desktop\\DH\\DIECASTHUB\\DiecastHub\\DiecastHub.http",
               "RelativeDocumentMoniker": "DiecastHub.http",
@@ -97,8 +164,7 @@
               "RelativeToolTip": "DiecastHub.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2026-04-03T19:22:15.947Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-03T19:22:15.947Z"
             }
           ]
         },
