@@ -1,6 +1,7 @@
-﻿namespace DiecastHub.DTO.Person.Response
+﻿
+namespace DiecastHub.DTO.Person.Request
 {
-    public class PersonResponseDTO
+    public class PersonUpdateDTO
     {
         public int PersonId { get; set; }
         public string FirstName { get; set; } = string.Empty;

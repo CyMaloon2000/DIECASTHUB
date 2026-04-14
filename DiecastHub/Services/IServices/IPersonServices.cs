@@ -1,4 +1,5 @@
-﻿using DiecastHub.DTO.Person.Response;
+﻿using DiecastHub.DTO.Person.Request;
+using DiecastHub.DTO.Person.Response;
 using DiecastHub.Models;
 
 namespace DiecastHub.Services.IServices
@@ -7,8 +8,8 @@ namespace DiecastHub.Services.IServices
     {
         Task<List<PersonResponseDTO>> GetAllPersonsAsync();
         Task<PersonResponseDTO?> GetPersonByIdAsync(int id);
-        Task<PersonResponseDTO> CreatePersonAsync(PersonResponseDTO person);
-        Task<bool> UpdatePersonAsync(int id, PersonResponseDTO person);
+        Task<PersonResponseDTO> AddPersonAsync(PersonCreateDTO person);
+        Task<bool> UpdatePersonAsync(int id, PersonUpdateDTO person);
         Task<bool> DeletePersonAsync(int id);
     }
 }

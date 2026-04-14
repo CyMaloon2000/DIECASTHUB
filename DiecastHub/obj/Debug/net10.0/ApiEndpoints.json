@@ -9,7 +9,33 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[DiecastHub.Models.Person, DiecastHub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.List\u00601[[DiecastHub.DTO.Person.Response.PersonResponseDTO, DiecastHub, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "DiecastHub.Controllers.PersonController",
+    "Method": "AddPerson",
+    "RelativePath": "api/Person",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "person",
+        "Type": "DiecastHub.DTO.Person.Request.PersonCreateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "DiecastHub.DTO.Person.Response.PersonResponseDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -35,7 +61,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "DiecastHub.Models.Person",
+        "Type": "DiecastHub.DTO.Person.Response.PersonResponseDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -44,6 +70,27 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "DiecastHub.Controllers.PersonController",
+    "Method": "UpdatePerson",
+    "RelativePath": "api/Person/{PersonId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "PersonId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "person",
+        "Type": "DiecastHub.DTO.Person.Request.PersonUpdateDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   },
   {
     "ContainingType": "DiecastHub.Controllers.WeatherForecastController",
