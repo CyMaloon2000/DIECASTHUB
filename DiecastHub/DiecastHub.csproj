@@ -17,4 +17,8 @@
     <PackageReference Include="Scalar.AspNetCore" Version="2.13.19" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DTO\Auth\" />
+  </ItemGroup>
+
 </Project>

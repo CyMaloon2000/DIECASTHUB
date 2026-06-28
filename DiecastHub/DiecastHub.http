@@ -1,6 +1,6 @@
 @DiecastHub_HostAddress = http://localhost:5153
 
-GET {{DiecastHub_HostAddress}}/weatherforecast/
+GET {{DiecastHub_HostAddress}}/person/
 Accept: application/json
 
 ###

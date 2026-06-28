@@ -38,8 +38,31 @@ namespace DiecastHub.Controllers
         [HttpPut("{PersonId}")]
         public async Task<ActionResult> UpdatePerson(int PersonId, PersonUpdateDTO person)
         {
+            if (person == null)
+                return BadRequest("Request body cannot be empty.");
+
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
             var result = await _service.UpdatePersonAsync(PersonId, person);
-            return result ? NoContent() : NotFound($"No person with id {PersonId} found.");
+
+            if (!result)
+                return NotFound($"No person with id {PersonId} found.");
+
+            return NoContent();
+        }
+
+        [HttpDelete("{PersonId}")]
+        public async Task<ActionResult> DeletePerson(int PersonId)
+        {
+           
+
+            var result = await _service.DeletePersonAsync(PersonId);
+
+            if (!result)
+                return NotFound($"No person with id {PersonId} found.");
+
+            return NoContent();
         }
 
     }

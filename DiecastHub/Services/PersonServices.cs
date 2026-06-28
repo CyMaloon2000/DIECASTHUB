@@ -59,7 +59,13 @@ namespace DiecastHub.Services
         }
         public async Task<bool> DeletePersonAsync(int id)
         {
-            throw new NotImplementedException();
+            var existingPerson = _context.Person.Find(id);
+            if (existingPerson == null) return false;
+
+            _context.Person.Remove(existingPerson);
+            await _context.SaveChangesAsync();
+
+            return true;
         }
          
         public async Task<bool> UpdatePersonAsync(int id, PersonUpdateDTO person)
@@ -71,6 +77,8 @@ namespace DiecastHub.Services
             existingPerson.LastName = person.LastName;
             existingPerson.MiddleName = person.MiddleName;
             existingPerson.BirthDate = person.BirthDate;
+
+            await _context.SaveChangesAsync();
 
             return true;
         }

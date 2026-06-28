@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DiecastHub")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce2514273eebf14dd8f311e5a9984c368d38864a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3fd17b436abf5285b5c23bdcaa4d1141d04eb13")]
 [assembly: System.Reflection.AssemblyProductAttribute("DiecastHub")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DiecastHub")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
